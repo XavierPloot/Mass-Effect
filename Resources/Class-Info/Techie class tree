@@ -1,13 +1,14 @@
-...........................ENGINEER
-Machinist...........................................Disruptor 
-Mechanic...........................................Demolitionist
-Tech Expert.......................................Havoc
-Tech Specialist..................................Bombardier
-Ordnance Specialist...........................Saboteur
+                          ENGINEER
+Machinist                                          Disruptor 
+Mechanic                                           (NAME)
+Tech Expert                                        Havoc
+Tech Specialist                                    (NAME)
+Ordnance Specialist                                Saboteur
 
 
 
-...........................GUARDIAN
+GUARDIAN
+
 Defender
 Warden
 Shield Specialist
@@ -16,9 +17,21 @@ Paladin
 
 
 
-............................SENTINEL
+SENTINEL
+
 L2
 Phoenix
 Deceiver
 Hyperion
 Equalizer
+
+
+
+
+
+Machinist                                        Tech Specialist
+Disruptor                                        Saboteur
+
+L2                                               Tech/Biotic Infantry
+
+Defender                                         Support
