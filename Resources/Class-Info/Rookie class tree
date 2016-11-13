@@ -1,22 +1,24 @@
-....................................SOLDIER
+SOLDIER
+
 Heavy Gunner
 Suppressor
 Insurgent
-Challenger
+(NAME)
 Assault Specialist
 
 
 
-................................INFILTRATOR
-Rifleman.......................Scout.......................Operative
-Marksman....................Drone.......................Striker
-Master marksman.........Watchman................Agent
-Sniper..........................Surveyor..................Backstabber 
-Deadeye......................Overseer..................Ambusher
+                              INFILTRATOR
+Rifleman                      Scout                     Operative
+Marksman                      (NAME)                    Striker
+Master marksman               Watchman                  (NAME)
+Sniper                        Surveyor                  (NAME) 
+(NAME)                        Overseer                  (NAME)
 
 
 
-...............................GUARDIAN
+GUARDIAN
+
 Protector
 Field Medic
 Liberator
@@ -27,11 +29,11 @@ Legionnaire
 
 
 
-Heavy Gunner........................................................Heavy Infantry
+Heavy Gunner                                      Heavy Infantry
 
-Rifleman................................................................Marksman
-Scout....................................................................Spotter
-Operative..............................................................Stealth Infantry
+Rifleman                                          Sniper
+Scout                                             Combat sniper
+Operative                                         Stealth Infantry
 
 Machinist..............................................................Tech Specialist
 Disruptor...............................................................Saboteur
@@ -49,6 +51,6 @@ Breaker................................................................Biotic In
 
 Defender..............................................................Support
 
-Field Medic..........................................................Medic
+Protector                                                             Medic
 
 Guardians shield is attached to the forearm of the user
